@@ -33,6 +33,6 @@ along with this program.  If not, see http://www.gnu.org/licenses/.
 
 ## Build
 
-1. `git clone https://github.com/DigiGostar/NasimeSahary`
+1. `git clone https://github.com/DigiGostar/NasimeSahary.git`
 1. Import the project on Android Studio
 
