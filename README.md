@@ -13,10 +13,8 @@
 
 ## Download
 
-- [F-Droid](https://f-droid.org/app/nasimesahary)
-- [Google Play](https://play.google.com/store/apps/details?id=nasimesahary)
-- [Github](https://github.com/ebraminio/DroidPersianCalendar/releases/)
-- [Bazaar](http://cafebazaar.ir/app/nasimesahary)
+- [Github](https://github.com/DigiGostar/NasimeSahary/)
+- [Bazaar](https://cafebazaar.ir/app/com.armandl.nasimesahary)
 
 ## License
 
@@ -37,6 +35,6 @@ along with this program.  If not, see http://www.gnu.org/licenses/.
 
 ## Build
 
-1. `git clone https://github.com/ebraminio/DroidPersianCalendar`
+1. `git clone https://github.com/DigiGostar/NasimeSahary`
 1. Import the project on Android Studio
 
