@@ -1,7 +1,5 @@
 # Android Nasime Sahary
 
-[![CircleCI](https://circleci.com/gh/ebraminio/DroidPersianCalendar/tree/master.svg?style=svg)](https://circleci.com/gh/ebraminio/DroidPersianCalendar/tree/master)
-
 <div dir=rtl>
 
 ## نسیم سحری اندروید
