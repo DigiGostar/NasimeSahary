@@ -1,0 +1,11 @@
+Free and open-source Nasime Sahary with Compass/Qibla and Athan, and
+Afghanistan holidays, Dari, Kurdish, Arabic, and Pashto support. Also, Supports
+Gregorian and Islamic calendars.
+
+Also, works with TalkBack accessibility feature of Android.
+
+https://github.com/ebraminio/DroidPersianCalendar
+
+Please note that the permanent date notification bar can easily be disabled
+from preference. Also, it has a DashClock extension and optional Athan
+player.
