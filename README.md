@@ -16,7 +16,7 @@
 
 ## License
 
-Copyright (C) 2012-2019  ebrahim@gnu.org
+Original Source : https://github.com/persian-calendar/DroidPersianCalendar
 
 This program is free software: you can redistribute it and/or modify 
 it under the terms of the GNU General Public License as published by 
